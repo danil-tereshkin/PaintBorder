@@ -1,0 +1,9 @@
+div {
+    max-width: 1280px;
+    min-width: 500px;
+    width: auto;
+    height: 300px;
+    background: orange;
+    border: 25px solid;
+    border-image: url(border.png) 25 round round;
+}
